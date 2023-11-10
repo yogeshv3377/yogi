@@ -1,0 +1,203 @@
+.Allcars-Body{
+    width: 100%;
+    background-color: rgb(121, 124, 123);
+    color:white;
+    font-size: 20px;
+}
+
+
+
+
+.navbar {
+  background-color:rgb(31, 29, 29);
+  height: 70px;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+}  
+.nav-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+.nav-item {
+  margin-right: 25px;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 15px;
+  margin-left:80px;
+
+}
+.nav-item:hover {
+  text-decoration:none;
+  color:bisque;
+}
+.nav-display{
+  display: flex;
+  flex-direction: row;
+}
+
+
+
+
+
+
+/* ----------------------------------------------------------------//////////////------------------- */
+
+.Allcars-baground{
+  background-image: url();
+}
+
+
+
+
+.Tiago{
+    background-image: url(https://cars.tatamotors.com/images/tiago/tiago-cng-d-banner-2.jpg);
+    height: 100vh;
+}
+
+
+
+
+
+.page-container {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side {
+    flex: 1;
+    padding: 20px;
+    /* background-color: #f0f0f0; */
+    margin-top: 13vh;
+
+  }
+  
+  .right-side {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .page-container1 {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side1 {
+    flex: 1;
+    padding: 20px;
+    /* background-color: #f0f0f0; */
+    margin-top: 13vh;
+
+  }
+  
+  .right-side1 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .img1 {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  
+.page-container2 {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side2 {
+    flex: 1;
+    /* padding: 20px; */
+    /* background-color: #f0f0f0; */
+    display: flex;
+    margin-top: 1vh;
+    margin-left: 10vw;
+
+  }
+  
+  .right-side2 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+
+  
+.page-container3 {
+  display: flex;
+  margin-top: 10vh;
+}
+
+.left-side3 {
+  flex: 1;
+  padding: 20px;
+  /* background-color: #f0f0f0; */
+  margin-top: 13vh;
+
+}
+
+.right-side3 {
+  flex: 1;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
+/* -----------------------------/----------------------------/----------- */
+
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.contact-info {
+  flex: 1;
+  margin-left: 5%;
+}
+
+.terms-and-conditions {
+  flex: 1;
+  margin-left: 20%;
+  /* text-align: center; */
+
+}
+
+.social-iconsss {
+  flex: 1;
+  text-align: right;
+  text-decoration: none;
+  color: #fff;
+  font-size: 40px;
+  display: flex;
+  margin-left: 5%;
+  
+}
+
+.social-iconsss :hover {
+  color: #0073e6;
+}

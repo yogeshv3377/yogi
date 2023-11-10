@@ -1,0 +1,62 @@
+.Content-Box{
+    height: 70vh;
+    width: 28vw;
+    background-color: rgb(202, 196, 216);
+    border: none;
+    box-shadow: 0px 0px 5px;
+    margin-top: 10vh;
+}
+.Content-Box1{
+    height: 10vh;
+    width: 28vw;
+    border: none;
+    /* box-shadow: 0px 0px 5px; */
+background-color: blue;
+color: white;
+
+}
+.Content-text{
+    font-size: 30px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.Content-text1{
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.Content-Display{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2vh;
+}
+.name{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.feild{
+    height: 3vh;
+    width: 25vw;
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+.feild1{
+    height: 13vh;
+    width: 25vw;
+    margin-left: 2vh;
+    margin-top: 2vh;
+}
+
+.Submit{
+    height: 4vh;
+    width: 5vw;
+    margin-top: 4vh;
+    margin-left: vw;
+   border: none;
+   background-color: blue;
+   color: white;
+}

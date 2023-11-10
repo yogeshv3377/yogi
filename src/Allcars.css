@@ -1,0 +1,93 @@
+.Allcars-Body{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+.Tiago{
+    background-image: url(https://cars.tatamotors.com/images/tiago/tiago-cng-d-banner-2.jpg);
+    height: 100vh;
+}
+
+
+
+
+
+.page-container {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side {
+    flex: 1;
+    padding: 20px;
+    /* background-color: #f0f0f0; */
+    margin-top: 13vh;
+
+  }
+  
+  .right-side {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .page-container1 {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side1 {
+    flex: 1;
+    padding: 20px;
+    /* background-color: #f0f0f0; */
+    margin-top: 13vh;
+
+  }
+  
+  .right-side1 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .img1 {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+  
+.page-container2 {
+    display: flex;
+    margin-top: 10vh;
+  }
+  
+  .left-side2 {
+    flex: 1;
+    /* padding: 20px; */
+    /* background-color: #f0f0f0; */
+    margin-top: 13vh;
+    margin-left: 10vw;
+
+  }
+  
+  .right-side2 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

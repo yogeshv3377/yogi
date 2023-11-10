@@ -1,0 +1,39 @@
+/* NavBar.css */
+
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+    margin-left: 70%;
+  }
+  
+  .nav-links a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+/* -------------------------------------------------navbhar end--------------------- */
+  
+  .Sidebhar-body{
+    display: flex;
+    width: 20vw;
+    background-color: #333;
+    margin-top: .5vh;
+    height: 93vh;
+    color: aliceblue;
+  }
+  .Sid-text1{
+    display: flex;
+    margin-left: 5%;
+    padding: 6%;
+    height:6vh ;
+  }
+  .Sid-text2{
+    margin-left: 5%;
+    padding: 10%;
+  }
